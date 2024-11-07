@@ -1,0 +1,34 @@
+[
+    {
+        "file":  "de_ancient.spots",
+        "hash":  "6CFAB74B9D091825E6255AA025DC0B6D4EEA823AAF83A4B50FD018F8BB64EA8F"
+    },
+    {
+        "file":  "de_anubis.spots",
+        "hash":  "2D719C5DE654ECBD3215FCCB37866FF2DC68D79A4211DC7F83B52E785974AAF2"
+    },
+    {
+        "file":  "de_dust2.spots",
+        "hash":  "6E37408CF8F76FDE22FC35441BBD3CB46A825DD3CEE66F8D07DF744201726D9F"
+    },
+    {
+        "file":  "de_inferno.spots",
+        "hash":  "8A092876870AF98668E59254B6C5435D2B4417570EE6D5D3EB38FE6970CEFA50"
+    },
+    {
+        "file":  "de_mirage.spots",
+        "hash":  "BF297E4A1FAAF72182969F8E12D6B3D0317E54E1770C6597C8C3E6DCCC1BCF62"
+    },
+    {
+        "file":  "de_nuke.spots",
+        "hash":  "E3181BED8D07D9D20E01FD3B785D333292C4BE553FCCB6E0E4D332F0F3DAFE5D"
+    },
+    {
+        "file":  "de_overpass.spots",
+        "hash":  "8D83C7C081253E02DBC71D3F095F730C7642319FECDF2BF0896D1761EB641FAC"
+    },
+    {
+        "file":  "de_vertigo.spots",
+        "hash":  "F7CB44E0CF3BFBF891A4C225F0EF5E20A176AD18C33F73BF0F6200A7209A99DD"
+    }
+]

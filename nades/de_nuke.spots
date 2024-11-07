@@ -1,0 +1,190 @@
+{
+	"spot-count": 1,
+	"spot-SmokeGrenade1": {
+		"name": "Ramp - Trophy",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": 773.97,
+		"pos-y": 907.92,
+		"pos-z": -479.96,
+		"headpos-x": 601.57,
+		"headpos-y": 605.48,
+		"headpos-z": -480.81
+	},
+		"spot-SmokeGrenade2": {
+		"name": "Trophy - Ramp 1",
+		"throwtype": 4,
+		"nadetype": 2,
+		"pos-x": 251.96,
+		"pos-y": -352.20,
+		"pos-z": -415.96,
+		"headpos-x": 48.29,
+		"headpos-y": -124.54,
+		"headpos-z": -307.13
+	},
+		"spot-SmokeGrenade3": {
+		"name": "Trophy - Ramp 2",
+		"throwtype": 4,
+		"nadetype": 2,
+		"pos-x": 251.96,
+		"pos-y": -463.96,
+		"pos-z": -415.96,
+		"headpos-x": 61.84,
+		"headpos-y": 153.92,
+		"headpos-z": -331.42
+	},
+		"spot-SmokeGrenade4": {
+		"name": "Heaven - Squeaky",
+		"throwtype": 0,
+		"nadetype": 2,
+		"pos-x": 1011.69,
+		"pos-y": -457.96,
+		"pos-z": -127.96,
+		"headpos-x": 830.52,
+		"headpos-y": -768.93,
+		"headpos-z": -9.86
+	},
+		"spot-SmokeGrenade5": {
+		"name": "CT Spawn - Top Silo",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": 1978.16,
+		"pos-y": -788.07,
+		"pos-z": -335.96,
+		"headpos-x": 1020.75,
+		"headpos-y": -1223.01,
+		"headpos-z": 58.99
+	},
+		"spot-SmokeGrenade6": {
+		"name": "Under Silo - T Red",
+		"throwtype": 4,
+		"nadetype": 2,
+		"pos-x": -501.99,
+		"pos-y": -1551.9,
+		"pos-z": -415.96,
+		"headpos-x": -34.27,
+		"headpos-y": -2232.83,
+		"headpos-z": -265.66
+	},
+		"spot-SmokeGrenade7": {
+		"name": "T Spawn - Vent",
+		"throwtype": 5,
+		"nadetype": 2,
+		"pos-x": -1223.74,
+		"pos-y": -876.02,
+		"pos-z": -415.96,
+		"headpos-x": -427.84,
+		"headpos-y": -1023.31,
+		"headpos-z": -96.45
+	},
+		"spot-SmokeGrenade8": {
+		"name": "T Roof - A Main",
+		"throwtype": 6,
+		"nadetype": 2,
+		"pos-x": -105.03,
+		"pos-y": -280.03,
+		"pos-z": -171.96,
+		"headpos-x": 218.79,
+		"headpos-y": -805.13,
+		"headpos-z": 14.28
+	},
+		"spot-SmokeGrenade9": {
+		"name": "T Spawn - Top A Main",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": -1754.49,
+		"pos-y": -1245.33,
+		"pos-z": -407.96,
+		"headpos-x": -1410.17,
+		"headpos-y": -1306.84,
+		"headpos-z": -177.47
+	},
+		"spot-SmokeGrenade10": {
+		"name": "T Spawn - Outside Main",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": -1351.97,
+		"pos-y": -1053.34,
+		"pos-z": -415.96,
+		"headpos-x": -762.18,
+		"headpos-y": -1256.42,
+		"headpos-z": 281.94
+	},
+		"spot-SmokeGrenade11": {
+		"name": "T Spawn - Secret Close 1",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": -1268.03,
+		"pos-y": -1163.86,
+		"pos-z": -415.96,
+		"headpos-x": -1024.15,
+		"headpos-y": -1281.38,
+		"headpos-z": -84.99
+	},
+		"spot-SmokeGrenade12": {
+		"name": "T Spawn - Secret Close 2",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": -1066.64,
+		"pos-y": -1142.97,
+		"pos-z": -415.96,
+		"headpos-x": -780.80,
+		"headpos-y": -1273.92,
+		"headpos-z": -41.71
+	},
+		"spot-SmokeGrenade13": {
+		"name": "T Spawn - Front Garage",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": -1180.03,
+		"pos-y": -1164.69,
+		"pos-z": -362.53,
+		"headpos-x": -1157.97,
+		"headpos-y": -1173.3,
+		"headpos-z": -279.76
+	},
+		"spot-SmokeGrenade14": {
+		"name": "Outsite T Spawn - Garage",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": -916.26,
+		"pos-y": -992.03,
+		"pos-z": -413.96,
+		"headpos-x": -509.72,
+		"headpos-y": -1144.53,
+		"headpos-z": -190.91
+	},
+		"spot-SmokeGrenade15": {
+		"name": "Under Silo - CT Red",
+		"throwtype": 0,
+		"nadetype": 2,
+		"pos-x": -138.46,
+		"pos-y": -1962.48,
+		"pos-z": -415.96,
+		"headpos-x": 171.48,
+		"headpos-y": -1862.11,
+		"headpos-z": -110.16
+	},
+		"spot-SmokeGrenade16": {
+		"name": "T Spawn - Lockers",
+		"throwtype": 2,
+		"nadetype": 2,
+		"pos-x": -1350.72,
+		"pos-y": -931.96,
+		"pos-z": -415.96,
+		"headpos-x": 619.29,
+		"headpos-y": -920.88,
+		"headpos-z": 306.76
+	},
+		"spot-SmokeGrenade17": {
+		"name": "Silo - Heaven",
+		"throwtype": 0,
+		"nadetype": 2,
+		"pos-x": -19.85,
+		"pos-y": -1460.34,
+		"pos-z": -44.83,
+		"headpos-x": 1057.86,
+		"headpos-y": -295.77,
+		"headpos-z": 661.39
+	}
+}

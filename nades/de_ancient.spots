@@ -1,0 +1,168 @@
+{
+	"spot-count": 1,
+		"spot-SmokeGrenade1": {
+		"name": "B Site - B Doors",
+		"throwtype": 0,
+		"nadetype": 2,
+		"pos-x": 1346.31,
+		"pos-y": 516.02,
+		"pos-z": 130.44,
+		"headpos-x": 1282.62,
+		"headpos-y": 218.58,
+		"headpos-z": 292.08
+	},
+		"spot-SmokeGrenade2": {
+		"name": "B Site - T Upper",
+		"throwtype": 4,
+		"nadetype": 2,
+		"pos-x": 746.72,
+		"pos-y": 435.52,
+		"pos-z": 130.00,
+		"headpos-x": 667.84,
+		"headpos-y": -248.96,
+		"headpos-z": 421.76
+	},
+		"spot-SmokeGrenade3": {
+		"name": "CT Spawn - B Ramp",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": -66.03,
+		"pos-y": 1771.97,
+		"pos-z": 37.46,
+		"headpos-x": -46.35,
+		"headpos-y": 1743.3,
+		"headpos-z": 127.23
+	},
+		"spot-SmokeGrenade4": {
+		"name": "CT Spawn - Elbow",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": -646.96,
+		"pos-y": 1308.03,
+		"pos-z": 32.16,
+		"headpos-x": -689.29,
+		"headpos-y": 1021.66,
+		"headpos-z": 373.89
+	},
+		"spot-SmokeGrenade5": {
+		"name": "CT Spawn - A Stairs",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": -1026.77,
+		"pos-y": 1018.67,
+		"pos-z": 70.03,
+		"headpos-x": -1408.69,
+		"headpos-y": 453,
+		"headpos-z": 299.28
+	},
+		"spot-SmokeGrenade6": {
+		"name": "A Site - A Long",
+		"throwtype": 0,
+		"nadetype": 2,
+		"pos-x": -1170.55,
+		"pos-y": 993.64,
+		"pos-z": 52.88,
+		"headpos-x": -2266.48,
+		"headpos-y": 320.18,
+		"headpos-z": 614.65
+	},
+		"spot-SmokeGrenade7": {
+		"name": "Outside A - Plat",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": -2143.97,
+		"pos-y": -1003.97,
+		"pos-z": -22.84,
+		"headpos-x": -2143.16,
+		"headpos-y": -964.44,
+		"headpos-z": 98.42
+	},
+		"spot-SmokeGrenade8": {
+		"name": "Outside A - Temple",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": -1768.26,
+		"pos-y": -1246.45,
+		"pos-z": -31.60,
+		"headpos-x": -1721.83,
+		"headpos-y": -461.78,
+		"headpos-z": 459.44
+	},
+		"spot-SmokeGrenade9": {
+		"name": "Outside A - Donut Tunnel",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": -1935.41,
+		"pos-y": -861.09,
+		"pos-z": -27.10,
+		"headpos-x": -1857.31,
+		"headpos-y": -560.50,
+		"headpos-z": 250.23
+	},
+		"spot-SmokeGrenade10": {
+		"name": "T Spawn - Mid Tunnel",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": -632.02,
+		"pos-y": -2072.25,
+		"pos-z": -154.96,
+		"headpos-x": -580.63,
+		"headpos-y": -1339.41,
+		"headpos-z": 300.13
+	},
+		"spot-SmokeGrenade11": {
+		"name": "T Spawn - Mid Plaza",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": -1520.18,
+		"pos-y": -1575.76,
+		"pos-z": -30.26,
+		"headpos-x": -1089.83,
+		"headpos-y": -1252.29,
+		"headpos-z": 220.34
+	},
+		"spot-SmokeGrenade12": {
+		"name": "T Spawn - Cat",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": -391.97,
+		"pos-y": -2037.87,
+		"pos-z": -153.66,
+		"headpos-x": -315.64,
+		"headpos-y": -1438.86,
+		"headpos-z": 130.13
+	},
+		"spot-SmokeGrenade13": {
+		"name": "Ruins - CT Alley",
+		"throwtype": 2,
+		"nadetype": 2,
+		"pos-x": 1255.97,
+		"pos-y": -1479.97,
+		"pos-z": 30.01,
+		"headpos-x": 1124.18,
+		"headpos-y": -1027.65,
+		"headpos-z": 156.27
+	},
+		"spot-SmokeGrenade14": {
+		"name": "Ruins - Cave",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": 1195.61,
+		"pos-y": -1337.87,
+		"pos-z": 3.44,
+		"headpos-x": 1040.03,
+		"headpos-y": -909.87,
+		"headpos-z": 138.61
+	},
+		"spot-SmokeGrenade15": {
+		"name": "T Spawn - Jaguar",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": -735.96,
+		"pos-y": -2135.97,
+		"pos-z": -164.08,
+		"headpos-x": -200.36,
+		"headpos-y": -1392.82,
+		"headpos-z": 291.5
+	}
+}

@@ -1,0 +1,201 @@
+{
+	"spot-count": 1,
+		"spot-SmokeGrenade1": {
+		"name": "CT Spawn - T Stairs",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": 2035.97,
+		"pos-y": 1914.97,
+		"pos-z": 140.22,
+		"headpos-x": 1735.06,
+		"headpos-y": 1776.28,
+		"headpos-z": 514.41
+	},
+		"spot-SmokeGrenade2": {
+		"name": "CT Spawn - Banana Half Wall",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": 2537.95,
+		"pos-y": 2468.33,
+		"pos-z": 125.65,
+		"headpos-x": 1769.2,
+		"headpos-y": 2282.71,
+		"headpos-z": 572.57
+	},
+		"spot-SmokeGrenade3": {
+		"name": "Arch - B Entrance",
+		"throwtype": 0,
+		"nadetype": 2,
+		"pos-x": 1574.02,
+		"pos-y": 1019.03,
+		"pos-z": 161.32,
+		"headpos-x": 1333.78,
+		"headpos-y": 1313.53,
+		"headpos-z": 870.37
+	},
+		"spot-SmokeGrenade4": {
+		"name": "Banana - B Site",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": 120.58,
+		"pos-y": 1593.89,
+		"pos-z": 107.24,
+		"headpos-x": 672.86,
+		"headpos-y": 2141.98,
+		"headpos-z": 197.39
+	},
+		"spot-SmokeGrenade5": {
+		"name": "Banana - Coffins",
+		"throwtype": 7,
+		"nadetype": 2,
+		"pos-x": 368.97,
+		"pos-y": 1663.04,
+		"pos-z": 134.03,
+		"headpos-x": 425.08,
+		"headpos-y": 2366.94,
+		"headpos-z": 441.76
+	},
+		"spot-SmokeGrenade6": {
+		"name": "T Spawn - CT",
+		"throwtype": 2,
+		"nadetype": 2,
+		"pos-x": -858.96,
+		"pos-y": 450.63,
+		"pos-z": -26.09,
+		"headpos-x": -585.40,
+		"headpos-y": 801.61,
+		"headpos-z": 417.56
+	},
+		"spot-SmokeGrenade7": {
+		"name": "Banana - CT",
+		"throwtype": 0,
+		"nadetype": 2,
+		"pos-x": 120.58,
+		"pos-y": 1593.89,
+		"pos-z": 107.24,
+		"headpos-x": 394.26,
+		"headpos-y": 1986.44,
+		"headpos-z": 471.69
+	},
+		"spot-SmokeGrenade8": {
+		"name": "T Spawn - Top Mid",
+		"throwtype": 0,
+		"nadetype": 2,
+		"pos-x": -610.03,
+		"pos-y": 579.94,
+		"pos-z": -14.96,
+		"headpos-x": -131.66,
+		"headpos-y": 565.07,
+		"headpos-z": 501.19
+	},
+		"spot-SmokeGrenade9": {
+		"name": "T Spawn - Boiler",
+		"throwtype": 2,
+		"nadetype": 2,
+		"pos-x": -850.90,
+		"pos-y": 787.97,
+		"pos-z": -23.64,
+		"headpos-x": -395.72,
+		"headpos-y": 697.03,
+		"headpos-z": 230.08
+	},
+		"spot-SmokeGrenade10": {
+		"name": "T Spawn - Arch",
+		"throwtype": 2,
+		"nadetype": 2,
+		"pos-x": -859.96,
+		"pos-y": 612.63,
+		"pos-z": -22.84,
+		"headpos-x": -211.35,
+		"headpos-y": 662.87,
+		"headpos-z": 389.36
+	},
+		"spot-SmokeGrenade11": {
+		"name": "Second Mid - Arch",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": 807.02,
+		"pos-y": -290.75,
+		"pos-z": 89.03,
+		"headpos-x": 937.66,
+		"headpos-y": -86.67,
+		"headpos-z": 498.71
+	},
+		"spot-SmokeGrenade12": {
+		"name": "T Spawn - Libary",
+		"throwtype": 2,
+		"nadetype": 2,
+		"pos-x": -858.96,
+		"pos-y": 450.63,
+		"pos-z": -26.09,
+		"headpos-x": -178.56,
+		"headpos-y": 568.37,
+		"headpos-z": 520.28
+	},
+		"spot-SmokeGrenade13": {
+		"name": "Second Mid - Moto",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": 729.03,
+		"pos-y": 183.75,
+		"pos-z": 90.81,
+		"headpos-x": 967.28,
+		"headpos-y": 277.89,
+		"headpos-z": 504.52
+	},
+		"spot-SmokeGrenade14": {
+		"name": "Arch - Front Graveyard",
+		"throwtype": 6,
+		"nadetype": 2,
+		"pos-x": 1962.13,
+		"pos-y": 1233.16,
+		"pos-z": 175.41,
+		"headpos-x": 2138.71,
+		"headpos-y": 992.88,
+		"headpos-z": 264.99
+	},
+		"spot-SmokeGrenade15": {
+		"name": "Second Mid - Hay",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": 215.59,
+		"pos-y": -197.97,
+		"pos-z": 110.03,
+		"headpos-x": 927.62,
+		"headpos-y": -183.23,
+		"headpos-z": 361.60
+	},
+		"spot-SmokeGrenade16": {
+		"name": "Apts - Hay",
+		"throwtype": 0,
+		"nadetype": 2,
+		"pos-x": 1475.07,
+		"pos-y": -274.53,
+		"pos-z": 256.03,
+		"headpos-x": 1794.15,
+		"headpos-y": -368.65,
+		"headpos-z": 338.80
+	},
+		"spot-SmokeGrenade17": {
+		"name": "Second Mid - Pit",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": 187.96,
+		"pos-y": -197.97,
+		"pos-z": 72.53,
+		"headpos-x": 946.40,
+		"headpos-y": -146.35,
+		"headpos-z": 449.31
+	},
+		"spot-SmokeGrenade18": {
+		"name": "Second Mid - Libary",
+		"throwtype": 1,
+		"nadetype": 2,
+		"pos-x": 807.02,
+		"pos-y": -290.75,
+		"pos-z": 89.03,
+		"headpos-x": 957.39,
+		"headpos-y": -161.00,
+		"headpos-z": 377.17
+	}
+}
