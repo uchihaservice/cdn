@@ -16,8 +16,16 @@
         "hash":  "1CF51F5F6EE5835AE564726EC8EC6744"
     },
     {
+        "file":  "basalt.tri",
+        "hash":  "A45DD061D0D58A0BDF93C0F881D840EE"
+    },
+    {
         "file":  "dust2.tri",
         "hash":  "8724C02750A97E4194DA17384224F2B8"
+    },
+    {
+        "file":  "edin.tri",
+        "hash":  "42F3784A24B6DBBDC946FDA22FFD7775"
     },
     {
         "file":  "inferno.tri",
@@ -49,7 +57,11 @@
     },
     {
         "file":  "overpass.tri",
-        "hash":  "152E67460074871EED74A858E75091BC"
+        "hash":  "805A511E5DDB50C4DAD4C0E17BA6DF3E"
+    },
+    {
+        "file":  "palais.tri",
+        "hash":  "1EB33454F9D71DB14407EAA0AEF8443E"
     },
     {
         "file":  "shoots.tri",
@@ -62,5 +74,9 @@
     {
         "file":  "vertigo.tri",
         "hash":  "AF307CA0AC9F6982635525DD1BB074BF"
+    },
+    {
+        "file":  "whistle.tri",
+        "hash":  "4451ADE7F98F1437D9945B4B4A649696"
     }
 ]
